@@ -24,7 +24,7 @@ SECRET_KEY = '#*22^3$=o4t5#@sl79y@0trq6zbom8m=la)r)m7r4f8aq-&1jf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.31.152', 'localhost:3000', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 CHANNEL_LAYERS = {
     "default": {
